@@ -1,3 +1,7 @@
+
+# 부트스트랩 + React + 채팅  // How To Create A Messaging App With Socket.io And React
+https://www.youtube.com/watch?v=tBr-PybP_9c&t=143s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
