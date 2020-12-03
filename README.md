@@ -1,5 +1,6 @@
 
-# 부트스트랩 + React + 채팅  // How To Create A Messaging App With Socket.io And React
+# 부트스트랩 + React + 채팅  
+# How To Create A Messaging App With Socket.io And React 관련 동영상
 https://www.youtube.com/watch?v=tBr-PybP_9c&t=143s
 
 # Getting Started with Create React App
